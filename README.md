@@ -1,5 +1,5 @@
 # HTML-Nexus
-Landing Page 
+One page Website
 # Format
 HTML+CSS+Bootstrap
 # Samples
